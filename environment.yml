@@ -5,5 +5,4 @@ dependencies:
   - pandas
   - seaborn
   - scikit-learn
-  
- 
+  - xlrd
