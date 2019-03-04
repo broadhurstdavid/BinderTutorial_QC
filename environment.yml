@@ -1,0 +1,9 @@
+name: BinderTutorial_QC
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
+  - sklearn
+  
+ 
