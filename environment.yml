@@ -1,8 +1,10 @@
 name: BinderTutorial_QC
+channels:
+- defaults
 dependencies:
-  - matplotlib
-  - numpy
-  - pandas
-  - seaborn
-  - scikit-learn
-  - xlrd
+- matplotlib
+- numpy
+- pandas
+- seaborn
+- scikit-learn
+- xlrd
