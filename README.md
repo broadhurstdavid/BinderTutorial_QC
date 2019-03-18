@@ -6,7 +6,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KevinMMendez/BinderTutorial_QC/master)
 <br />
 #### Option 2. Direct link to the BinderTutorial_QC Jupyter Notebook:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KevinMMendez/BinderTutorial_QC/master?filepath=BinderTutorial_QC.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KevinMMendez/BinderTutorial_QC/master?filepath=Tutorial3_Python.ipynb)
 
 <br />
 
