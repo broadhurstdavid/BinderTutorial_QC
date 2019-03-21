@@ -3,6 +3,7 @@ channels:
 - defaults
 - conda-forge
 dependencies:
+- python=3.6.7
 - matplotlib=2.2.3
 - conda-forge::numpy=1.16.2
 - pandas=0.24.2
